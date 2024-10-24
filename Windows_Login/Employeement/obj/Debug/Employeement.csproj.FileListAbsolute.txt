@@ -1,0 +1,9 @@
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\bin\Debug\Employeement.dll
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\bin\Debug\Employeement.pdb
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\bin\Debug\Checking_Date.dll
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\bin\Debug\Checking_Date.pdb
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\obj\Debug\Employeement.csproj.AssemblyReference.cache
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\obj\Debug\Employeement.csproj.CoreCompileInputs.cache
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\obj\Debug\Employee.A53E9897.Up2Date
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\obj\Debug\Employeement.dll
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Employeement\obj\Debug\Employeement.pdb

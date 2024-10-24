@@ -1,0 +1,15 @@
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\bin\Debug\Information_Form.exe.config
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\bin\Debug\Information_Form.exe
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\bin\Debug\Information_Form.pdb
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\bin\Debug\Checking_Date.dll
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\bin\Debug\Employeement.dll
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\bin\Debug\Employeement.pdb
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\bin\Debug\Checking_Date.pdb
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\obj\Debug\Information_Form.csproj.AssemblyReference.cache
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\obj\Debug\Information_Form.Form_Info.resources
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\obj\Debug\Information_Form.Properties.Resources.resources
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\obj\Debug\Information_Form.csproj.GenerateResource.cache
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\obj\Debug\Information_Form.csproj.CoreCompileInputs.cache
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\obj\Debug\Informat.14450827.Up2Date
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\obj\Debug\Information_Form.exe
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Information_Form\obj\Debug\Information_Form.pdb

@@ -1,0 +1,6 @@
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Shop\bin\Debug\Shop.dll
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Shop\bin\Debug\Shop.pdb
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Shop\obj\Debug\Shop.dll
+E:\Subject\HK1_24-25\Object Oriented Programming\Week_09\Practice\App\Windows_Login\Shop\obj\Debug\Shop.pdb
